@@ -1,5 +1,6 @@
+8.1.1
+- Updated to (git: adcc3f0 - 10/02/2017)
+
 8.1.0
 - Initial Release (git: 5d2202c- 04/10/2016)
 
-8.1.1
-- "Revision Here"
